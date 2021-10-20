@@ -3,7 +3,7 @@
 
 	1-	Répétoire public Github :  https://github.com/barnabas21/myTestApp.git
 
-	2-	Lien heroku backenk :  https://dashboard.heroku.com/apps/testappapi2021/api ( voir le fichier postman_collection.json dans le dossier db pour accéder à toutes les routes )
+	2-	Lien heroku backend :  https://dashboard.heroku.com/apps/testappapi2021/api ( voir le fichier postman_collection.json dans le dossier db pour accéder à toutes les routes )
 		
 		Infos Base de données : (type: postgreSQl, hebergé sur heroku également)
 			Host
