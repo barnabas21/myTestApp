@@ -21,4 +21,4 @@
 			Heroku CLI
 				heroku pg:psql postgresql-globular-66496 --app testappapi2021
 
-	3-	Lien vers les fichiers apk :   
+	3-	Lien vers les fichiers apk pour la version mobile  :   
